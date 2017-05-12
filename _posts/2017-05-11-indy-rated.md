@@ -1,12 +1,13 @@
 ---
 layout: post
-tags: movies graphs
+tags: movies graphs dbundo
 date: 2017-05-11
 thumbnail:
-title: The Indiana Jones Experience
+title: Indiana Jones Enjoyment Graph
 published: true
 ---
 
+Crystal Skull (not shown)
 
 graphic by dbundo
 

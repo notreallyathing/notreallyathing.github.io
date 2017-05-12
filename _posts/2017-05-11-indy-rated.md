@@ -7,8 +7,6 @@ title: Indiana Jones Enjoyment Graph
 published: true
 ---
 
-Crystal Skull (not shown)
+<em>Kingdom of the Crystal Skull (not shown)</em>
 
 graphic by dbundo
-
-<!--more-->

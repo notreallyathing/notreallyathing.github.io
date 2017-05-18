@@ -7,7 +7,7 @@ title: Indiana Jones Enjoyment Graph
 published: true
 ---
 
-<img src = "{{site.url}}/images/IJEG.jpg" height = "335" width = "460">
+<img src = "{{site.url}}/images/IJEG.png">
 
 <em>Kingdom of the Crystal Skull (not shown)</em>
 

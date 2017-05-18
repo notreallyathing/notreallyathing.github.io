@@ -15,4 +15,4 @@ graphic by dbundo
 
 <!--more-->
 
-Create your own! Source file is <a href="{{site.url}}/data/IG-EG_db.xls">here</a>.
+Create your own! Source file is <a href="{{site.url}}/data/IJ-EG_db.xls">here</a>.

@@ -12,3 +12,7 @@ published: true
 <em>Kingdom of the Crystal Skull (not shown)</em>
 
 graphic by dbundo
+
+<!--more-->
+
+Testing more functionality
